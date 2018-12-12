@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+Second Page
+{% endblock %}
+
+{% block body %}
+
+<h1>{{name}}</h1>
+
+<a href="{{url_for('myForm')}}">Go to My Form</a>
+{% endblock %}
