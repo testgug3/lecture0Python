@@ -1,0 +1,15 @@
+class.py
+functions.py
+hello.py
+modules.py
+name.py
+sets.py
+__pycache__/functions.cpython-37.pyc
+Include/
+Lib/
+Scripts/
+pip-selfcheck.json
+pyvenv.cfg
+.vscode/launch.json
+.vscode/settings.json
+__pycache__/application.cpython-37.pyc
