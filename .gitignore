@@ -13,3 +13,5 @@ pyvenv.cfg
 .vscode/launch.json
 .vscode/settings.json
 __pycache__/application.cpython-37.pyc
+flask_session/2029240f6d1128be89ddc32729463129
+flask_session/99019526771cb682a787eb4ce9618288
